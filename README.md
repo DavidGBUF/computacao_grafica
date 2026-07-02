@@ -182,7 +182,7 @@ A simulação utiliza 7 paletas pré-definidas, cada uma com transição de cor 
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/SEU_USUARIO/computacao-grafica-sistema-de-particulas.git
+git clone https://github.com/DavidGBUF/computacao_grafica.git
 cd computacao-grafica-sistema-de-particulas
 
 # Instalar dependências Python
